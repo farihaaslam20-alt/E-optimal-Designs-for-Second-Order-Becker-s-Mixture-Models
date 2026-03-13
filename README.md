@@ -1,0 +1,1 @@
+# E-optimal-Designs-for-Second-Order-Becker-s-Mixture-Models
